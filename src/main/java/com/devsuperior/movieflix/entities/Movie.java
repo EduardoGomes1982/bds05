@@ -43,7 +43,7 @@ public class Movie {
     private String imgUrl;
 
     @NonNull
-    private String sinopsis;
+    private String synopsis;
 
     @NonNull
     @ManyToOne
